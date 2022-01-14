@@ -1,0 +1,25 @@
+# GitBook Format
+
+## 题目
+
+#### Leetcode链接：
+
+## 解法一
+
+#### 思路：
+
+Clarification:&#x20;
+
+Algorithm:&#x20;
+
+#### <mark style="color:red;">注意：</mark>
+
+## 代码
+
+```
+```
+
+#### TC & SC:&#x20;
+
+1. TC: O()
+2. SC: O()
