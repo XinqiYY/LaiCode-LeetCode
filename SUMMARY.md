@@ -131,7 +131,7 @@
 * [468. Validate IP Address](468.-validate-ip-address.md)
 * [1381. Design a Stack With Increment Operation](1381.-design-a-stack-with-increment-operation.md)
 * [91. Decode Ways](91.-decode-ways.md)
-* [Page 8](page-8.md)
+* [212. Word Search II](212.-word-search-ii.md)
 * [Page 9](page-9.md)
 * [Page 10](page-10.md)
 * [Page 11](page-11.md)
