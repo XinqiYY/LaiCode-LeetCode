@@ -130,7 +130,7 @@
 * [540. Single Element in a Sorted Array](540.-single-element-in-a-sorted-array.md)
 * [468. Validate IP Address](468.-validate-ip-address.md)
 * [1381. Design a Stack With Increment Operation](1381.-design-a-stack-with-increment-operation.md)
-* [Page 7](page-7.md)
+* [91. Decode Ways](91.-decode-ways.md)
 * [Page 8](page-8.md)
 * [Page 9](page-9.md)
 * [Page 10](page-10.md)

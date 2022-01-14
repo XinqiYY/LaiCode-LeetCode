@@ -6,8 +6,6 @@
 
 ## 解法一
 
-#### 思路：
-
 Clarification:&#x20;
 
 Algorithm:&#x20;
