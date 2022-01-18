@@ -150,3 +150,4 @@
   * [50. Pow(x, n)(未解)](zhi-shi-dian/50.-powxnwei-jie.md)
 * [GitBook Format](gitbook-format.md)
 * [GOOGLE](google.md)
+* [2104. Sum of Subarray Ranges](2104.-sum-of-subarray-ranges.md)
