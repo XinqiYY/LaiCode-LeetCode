@@ -153,3 +153,6 @@
 * [GOOGLE](google.md)
 * [73. Combinations Of Coins](73.-combinations-of-coins.md)
 * [64. All Permutations I](64.-all-permutations-i.md)
+* [25. K Smallest In Unsorted Array](25.-k-smallest-in-unsorted-array.md)
+* [26. Kth Smallest Number In Sorted Matrix](26.-kth-smallest-number-in-sorted-matrix.md)
+* [47. Check If Binary Tree Is Completed](47.-check-if-binary-tree-is-completed.md)
