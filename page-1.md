@@ -1,18 +1,14 @@
-# 233. N Queens
+# Page 1
 
 ## 题目
 
-![](<.gitbook/assets/image (124).png>)
-
-#### 链接：[https://app.laicode.io/app/problem/233?plan=3](https://app.laicode.io/app/problem/233?plan=3)
+#### Leetcode链接：
 
 ## 解法一
 
 Clarification:&#x20;
 
 Algorithm:&#x20;
-
-1. DFS的
 
 #### <mark style="color:red;">注意：</mark>
 
