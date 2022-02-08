@@ -222,7 +222,7 @@
   * [50. Pow(x, n)(未解)](zhi-shi-dian/50.-powxnwei-jie.md)
 * [GitBook Format](gitbook-format.md)
 * [GOOGLE](google.md)
-* [Page 7](page-7.md)
+* [27. Kth Smallest Sum In Two Sorted Arrays](27.-kth-smallest-sum-in-two-sorted-arrays.md)
 * [Page 8](page-8.md)
 * [Page 9](page-9.md)
 * [Page 1](page-1.md)
