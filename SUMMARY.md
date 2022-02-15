@@ -238,5 +238,5 @@
 * [193. Kth Smallest With Only 3, 5, 7 As Factors](193.-kth-smallest-with-only-3-5-7-as-factors.md)
 * [Page 1](page-1.md)
 * [Page 2](page-2.md)
-* [Page 3](page-3.md)
-* [Page 5](page-5.md)
+* [14. Longest Common Prefix](14.-longest-common-prefix.md)
+* [696. Count Binary Substrings](696.-count-binary-substrings.md)
