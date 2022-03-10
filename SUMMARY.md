@@ -248,6 +248,7 @@
   * [讲解code要点](zhi-shi-dian/jiang-jie-code-yao-dian.md)
   * [递归(Recursion)](zhi-shi-dian/di-gui-recursion.md)
   * [50. Pow(x, n)(未解)](zhi-shi-dian/50.-powxnwei-jie.md)
+  * [Bitwise operator(位元运算子)](zhi-shi-dian/bitwise-operator-wei-yuan-yun-suan-zi.md)
 * [GitBook Format](gitbook-format.md)
 * [GOOGLE](google.md)
 * [Page 1](page-1.md)
