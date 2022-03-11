@@ -8,9 +8,9 @@
 
 ## 解法一
 
-Clarification:&#x20;
-
-Algorithm:&#x20;
+> Clarification:&#x20;
+>
+> Algorithm:&#x20;
 
 #### <mark style="color:red;">注意：</mark>
 
@@ -21,5 +21,6 @@ Algorithm:&#x20;
 
 #### TC & SC:&#x20;
 
-1. TC: O()
-2. SC: O()
+> TC: O()
+>
+> SC: O()
