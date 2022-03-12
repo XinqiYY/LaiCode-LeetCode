@@ -4,7 +4,7 @@
 
 #### Leetcode链接：
 
-#### 参考Youtube：
+#### Youtube参考：
 
 ## 解法一
 
