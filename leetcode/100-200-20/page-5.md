@@ -2,7 +2,7 @@
 
 ## 题目
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 
 #### Leetcode链接：[https://leetcode.com/problems/reverse-bits/](https://leetcode.com/problems/reverse-bits/)
 
