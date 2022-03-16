@@ -1,10 +1,10 @@
-# 73. Set Matrix Zeroes
+# Page 13
+
+
 
 ## 题目
 
-![](<.gitbook/assets/image (148).png>)
-
-#### Leetcode链接：[https://leetcode.com/problems/set-matrix-zeroes/](https://leetcode.com/problems/set-matrix-zeroes/)
+#### Leetcode链接：
 
 #### Youtube参考：
 
