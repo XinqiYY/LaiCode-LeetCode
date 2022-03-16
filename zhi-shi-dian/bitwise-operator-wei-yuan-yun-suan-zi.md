@@ -16,7 +16,7 @@
 
 ## NOT
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44) (1).png>)
 
 ## Shift Operators
 
