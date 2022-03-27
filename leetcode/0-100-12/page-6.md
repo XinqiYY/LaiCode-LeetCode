@@ -2,7 +2,7 @@
 
 ## 题目
 
-![](<../../.gitbook/assets/image (146).png>)
+![](<../../.gitbook/assets/image (146) (1).png>)
 
 #### Leetcode链接：[https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
 
