@@ -292,6 +292,7 @@
   * [Array](75-solutions/array/README.md)
     * [152. Maximum Product Subarray](75-solutions/array/152.-maximum-product-subarray.md)
     * [153. Find Minimum in Rotated Sorted Array](75-solutions/array/153.-find-minimum-in-rotated-sorted-array.md)
+    * [217. Contains Duplicate](75-solutions/array/217.-contains-duplicate.md)
     * [238. Product of Array Except Self](75-solutions/array/238.-product-of-array-except-self.md)
     * [53. Maximum Subarray](75-solutions/array/53.-maximum-subarray.md)
     * [33. Search in Rotated Sorted Array](75-solutions/array/33.-search-in-rotated-sorted-array.md)
