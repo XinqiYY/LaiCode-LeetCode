@@ -284,6 +284,7 @@
   * [Bitwise operator(位元运算子)](zhi-shi-dian/bitwise-operator-wei-yuan-yun-suan-zi.md)
 * [75 Solutions](75-solutions/README.md)
   * [DP](75-solutions/dp/README.md)
+    * [70. Climbing Stairs](75-solutions/dp/70.-climbing-stairs.md)
     * [139. Word Break](75-solutions/dp/139.-word-break.md)
     * [322. Coin Change](75-solutions/dp/322.-coin-change.md)
 * [GitBook Format](gitbook-format.md)
