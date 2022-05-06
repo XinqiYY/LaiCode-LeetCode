@@ -290,6 +290,8 @@
     * [322. Coin Change](75-solutions/dp/322.-coin-change.md)
     * [1143. Longest Common Subsequence](75-solutions/dp/1143.-longest-common-subsequence.md)
   * [Array](75-solutions/array/README.md)
+    * [33. Search in Rotated Sorted Array](75-solutions/array/33.-search-in-rotated-sorted-array.md)
+    * [15. 3Sum](75-solutions/array/15.-3sum.md)
     * [11. Container With Most Water](75-solutions/array/11.-container-with-most-water.md)
 * [GitBook Format](gitbook-format.md)
 * [GOOGLE](google.md)
