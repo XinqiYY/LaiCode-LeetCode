@@ -124,6 +124,7 @@
     * [49. Group Anagrams](leetcode/0-100-12/49.-group-anagrams.md)
     * [53. Maximum Subarray](leetcode/0-100-12/53.-maximum-subarray.md)
     * [54. Spiral Matrix](leetcode/0-100-12/54.-spiral-matrix.md)
+    * [55. Jump Game](leetcode/0-100-12/55.-jump-game.md)
     * [56. Merge Intervals](leetcode/0-100-12/56.-merge-intervals.md)
     * [57. Insert Interval](leetcode/0-100-12/57.-insert-interval.md)
     * [62. Unique Paths](leetcode/0-100-12/62.-unique-paths.md)
