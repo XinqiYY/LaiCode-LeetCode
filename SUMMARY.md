@@ -295,6 +295,7 @@
     * [55. Jump Game](75-solutions/dp/55.-jump-game.md)
     * [62. Unique Paths](75-solutions/dp/62.-unique-paths.md)
     * [70. Climbing Stairs](75-solutions/dp/70.-climbing-stairs.md)
+    * [91. Decode Ways](75-solutions/dp/91.-decode-ways.md)
     * [139. Word Break](75-solutions/dp/139.-word-break.md)
     * [300. Longest Increasing Subsequence](75-solutions/dp/300.-longest-increasing-subsequence.md)
     * [322. Coin Change](75-solutions/dp/322.-coin-change.md)
