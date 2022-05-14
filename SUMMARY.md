@@ -316,6 +316,7 @@
     * [238. Product of Array Except Self](75-solutions/array/238.-product-of-array-except-self.md)
   * [Heap](75-solutions/heap/README.md)
     * [23. Merge k Sorted Lists](75-solutions/heap/23.-merge-k-sorted-lists.md)
+    * [295. Find Median from Data Stream](75-solutions/heap/295.-find-median-from-data-stream.md)
 * [GitBook Format](gitbook-format.md)
 * [GOOGLE](google.md)
 * [173. Binary Search Tree Iterator](173.-binary-search-tree-iterator.md)
