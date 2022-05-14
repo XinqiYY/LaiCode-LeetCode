@@ -273,7 +273,7 @@
   * [DFS](zhi-shi-dian/dfs.md)
   * [并查集 (Union Find)](zhi-shi-dian/bing-cha-ji-union-find.md)
   * [拓扑排序(Topological sort)](zhi-shi-dian/tuo-pu-pai-xu-topological-sort.md)
-  * [堆栈(Heap & Stack)](zhi-shi-dian/dui-zhan-heap-stack.md)
+  * [堆栈(PriorityQueue\&Heap)](zhi-shi-dian/dui-zhan-heap-stack.md)
   * [GitBook Pattern](zhi-shi-dian/gitbook-pattern.md)
   * [「Java面试小抄」](zhi-shi-dian/java-mian-shi-xiao-chao.md)
   * [HashTable & HashMap](zhi-shi-dian/hashtable-and-hashmap.md)
