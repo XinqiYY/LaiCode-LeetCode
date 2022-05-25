@@ -289,6 +289,7 @@
     * [100. Same Tree](75-solutions/tree/100.-same-tree.md)
     * [102. Binary Tree Level Order Traversal](75-solutions/tree/102.-binary-tree-level-order-traversal.md)
     * [104. Maximum Depth of Binary Tree](75-solutions/tree/104.-maximum-depth-of-binary-tree.md)
+    * [105. Construct Binary Tree from Preorder and Inorder Traversal](75-solutions/tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
     * [124. Binary Tree Maximum Path Sum](75-solutions/tree/124.-binary-tree-maximum-path-sum.md)
     * [226. Invert Binary Tree](75-solutions/tree/226.-invert-binary-tree.md)
     * [572. Subtree of Another Tree](75-solutions/tree/572.-subtree-of-another-tree.md)
