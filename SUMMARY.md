@@ -53,6 +53,7 @@
   * [BinarySearch](lai-offer/binarysearch/README.md)
     * [17. Closest In Sorted Array](lai-offer/binarysearch/17.-closest-in-sorted-array.md)
     * [636. Smallest Element Larger than Target](lai-offer/binarysearch/636.-smallest-element-larger-than-target.md)
+    * [15. First Occurrence](readme/binarysearch/15.-first-occurrence.md)
   * [Recursion](lai-offer/recursion/README.md)
     * [35. Reverse Linked List In Pairs](lai-offer/recursion/35.-reverse-linked-list-in-pairs.md)
     * [121. Spiral Order Traverse I](lai-offer/recursion/121.-spiral-order-traverse-i.md)
