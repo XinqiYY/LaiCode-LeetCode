@@ -51,6 +51,7 @@
     * [625. Longest subarray contains only 1s](lai-offer/strings/625.-longest-subarray-contains-only-1s.md)
     * [649. String Replace (basic)](lai-offer/strings/649.-string-replace-basic.md)
   * [BinarySearch](lai-offer/binarysearch/README.md)
+    * [20. Search In Unknown Sized Sorted Array](readme/binarysearch/20.-search-in-unknown-sized-sorted-array.md)
     * [17. Closest In Sorted Array](lai-offer/binarysearch/17.-closest-in-sorted-array.md)
     * [636. Smallest Element Larger than Target](lai-offer/binarysearch/636.-smallest-element-larger-than-target.md)
     * [15. First Occurrence](readme/binarysearch/15.-first-occurrence.md)
