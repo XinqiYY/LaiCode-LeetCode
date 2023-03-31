@@ -1,6 +1,7 @@
 # Table of contents
 
 * [来offer](README.md)
+  * [Queue & Stack](readme/queue-and-stack.md)
   * [Heap\&BFS](lai-offer/heap-and-bfs/README.md)
     * [25. K Smallest In Unsorted Array](lai-offer/heap-and-bfs/25.-k-smallest-in-unsorted-array.md)
     * [26. Kth Smallest Number In Sorted Matrix](lai-offer/heap-and-bfs/26.-kth-smallest-number-in-sorted-matrix.md)
