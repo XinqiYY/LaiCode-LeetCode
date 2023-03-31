@@ -12,7 +12,7 @@
 
 ## XOR
 
-![](<../.gitbook/assets/image (89).png>)
+![](<../.gitbook/assets/image (89) (2).png>)
 
 ## NOT
 

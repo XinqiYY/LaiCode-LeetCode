@@ -1,7 +1,11 @@
 # Table of contents
 
 * [来offer](README.md)
-  * [Queue & Stack](readme/queue-and-stack.md)
+  * [Queue & Stack](readme/queue-and-stack/README.md)
+    * [31. Queue By Two Stacks](readme/queue-and-stack/31.-queue-by-two-stacks.md)
+    * [32. Stack With min()](readme/queue-and-stack/32.-stack-with-min.md)
+    * [280. Sort With 2 Stacks](readme/queue-and-stack/280.-sort-with-2-stacks.md)
+    * [645. Deque By Three Stacks](readme/queue-and-stack/645.-deque-by-three-stacks.md)
   * [Heap\&BFS](lai-offer/heap-and-bfs/README.md)
     * [25. K Smallest In Unsorted Array](lai-offer/heap-and-bfs/25.-k-smallest-in-unsorted-array.md)
     * [26. Kth Smallest Number In Sorted Matrix](lai-offer/heap-and-bfs/26.-kth-smallest-number-in-sorted-matrix.md)
