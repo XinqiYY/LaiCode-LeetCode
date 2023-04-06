@@ -47,6 +47,7 @@
     * [639. Max Path Sum From Leaf To Root](lai-offer/binarytree-and-bst/639.-max-path-sum-from-leaf-to-root.md)
   * [Strings](lai-offer/strings/README.md)
     * [67. Top K Frequent Words](lai-offer/strings/67.-top-k-frequent-words.md)
+    * [79. Remove Adjacent Repeated Characters I](readme/strings/79.-remove-adjacent-repeated-characters-i.md)
     * [84. Reverse Words In A Sentence I](lai-offer/strings/84.-reverse-words-in-a-sentence-i.md)
     * [85. Determine If One String Is Another's Substring](lai-offer/strings/85.-determine-if-one-string-is-anothers-substring.md)
     * [253. Longest Substring Without Repeating Characters](lai-offer/strings/253.-longest-substring-without-repeating-characters.md)
@@ -332,4 +333,4 @@
 * [173. Binary Search Tree Iterator](173.-binary-search-tree-iterator.md)
 * [380. Insert Delete GetRandom O(1)](380.-insert-delete-getrandom-o-1.md)
 * [362. Design Hit Counter](362.-design-hit-counter.md)
-* [Page 6](page-6.md)
+* [1047. Remove All Adjacent Duplicates In String](1047.-remove-all-adjacent-duplicates-in-string.md)
