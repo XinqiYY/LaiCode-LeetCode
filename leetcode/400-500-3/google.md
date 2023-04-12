@@ -2,7 +2,7 @@
 
 ## 题目
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Leetcode链接：[https://leetcode.com/problems/valid-word-abbreviation/description/](https://leetcode.com/problems/valid-word-abbreviation/description/)
 
