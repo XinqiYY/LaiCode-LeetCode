@@ -90,6 +90,8 @@
     * [97. Largest SubArray Sum](lai-offer/dp/97.-largest-subarray-sum.md)
     * [99. Dictionary Word I](lai-offer/dp/99.-dictionary-word-i.md)
     * [100. Edit Distance](lai-offer/dp/100.-edit-distance.md)
+    * [105. Largest X Of 1s](readme/dp/105.-largest-x-of-1s.md)
+    * [106. Largest SubMatrix Sum](readme/dp/106.-largest-submatrix-sum.md)
     * [637. Largest Square Surrounded By One](lai-offer/dp/637.-largest-square-surrounded-by-one.md)
     * [638. Largest Square Of Matches](lai-offer/dp/638.-largest-square-of-matches.md)
   * [Cross-training I](lai-offer/cross-training-i/README.md)
