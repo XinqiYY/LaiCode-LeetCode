@@ -4,7 +4,11 @@
 
 ## AND
 
-![](<../.gitbook/assets/image (71) (1).png>)
+<div align="center">
+
+<img src="../.gitbook/assets/image (71) (1).png" alt="">
+
+</div>
 
 ## OR
 
