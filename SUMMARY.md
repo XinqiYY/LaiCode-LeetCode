@@ -87,6 +87,7 @@
     * [42. Partition Linked List](lai-offer/linkedlist/42.-partition-linked-list.md)
     * [223. Add Two Numbers](lai-offer/linkedlist/223.-add-two-numbers.md)
     * [306. Check If Linked List Is Palindrome](lai-offer/linkedlist/306.-check-if-linked-list-is-palindrome.md)
+    * [414. Remove Linked List Elements](readme/linkedlist/414.-remove-linked-list-elements.md)
   * [Queue & Stack](readme/queue-and-stack/README.md)
     * [31. Queue By Two Stacks](readme/queue-and-stack/31.-queue-by-two-stacks.md)
     * [32. Stack With min()](readme/queue-and-stack/32.-stack-with-min.md)
