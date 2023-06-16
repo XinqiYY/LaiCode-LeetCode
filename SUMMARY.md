@@ -318,6 +318,7 @@
     * [2053. Kth Distinct String in an Array](leetcode/1000++-5/2053.-kth-distinct-string-in-an-array.md)
     * [2104. Sum of Subarray Ranges](leetcode/1000++-5/2104.-sum-of-subarray-ranges.md)
 * [知识点](zhi-shi-dian/README.md)
+  * [Boyer–Moore majority vote algorithm](zhi-shi-dian/boyer-moore-majority-vote-algorithm.md)
   * [Time & Space Complexities for all Sorting Algorithms](zhi-shi-dian/time-and-space-complexities-for-all-sorting-algorithms.md)
   * [DFS](zhi-shi-dian/dfs.md)
   * [并查集 (Union Find)](zhi-shi-dian/bing-cha-ji-union-find.md)
