@@ -51,6 +51,7 @@
     * [644. Common Elements In K Sorted Lists](lai-offer/cross-training-iii/644.-common-elements-in-k-sorted-lists.md)
   * [Cross-training IV](readme/cross-training-iv/README.md)
     * [202. Kth Smallest In Two Sorted Arrays](readme/cross-training-iv/202.-kth-smallest-in-two-sorted-arrays.md)
+    * [208. Majority Number III](readme/cross-training-iv/208.-majority-number-iii.md)
   * [DFS](lai-offer/dfs/README.md)
     * [62. All Subsets I](lai-offer/dfs/62.-all-subsets-i.md)
     * [63. All Subsets II](readme/dfs/63.-all-subsets-ii.md)
