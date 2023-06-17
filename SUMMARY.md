@@ -52,6 +52,7 @@
   * [Cross-training IV](readme/cross-training-iv/README.md)
     * [202. Kth Smallest In Two Sorted Arrays](readme/cross-training-iv/202.-kth-smallest-in-two-sorted-arrays.md)
     * [208. Majority Number III](readme/cross-training-iv/208.-majority-number-iii.md)
+    * [288. First Non-Repeating Character In Stream](readme/cross-training-iv/288.-first-non-repeating-character-in-stream.md)
   * [DFS](lai-offer/dfs/README.md)
     * [62. All Subsets I](lai-offer/dfs/62.-all-subsets-i.md)
     * [63. All Subsets II](readme/dfs/63.-all-subsets-ii.md)
