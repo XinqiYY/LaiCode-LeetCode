@@ -160,6 +160,7 @@
     * [57. Insert Interval](leetcode/0-100-12/57.-insert-interval.md)
     * [62. Unique Paths](leetcode/0-100-12/62.-unique-paths.md)
     * [70. Climbing Stairs](leetcode/0-100-12/page-6.md)
+    * [72. Edit Distance](leetcode/0-100-12/72.-edit-distance.md)
     * [73. Set Matrix Zeroes](leetcode/0-100-12/73.-set-matrix-zeroes.md)
     * [74. Search In Sorted Matrix(M)](leetcode/0-100-12/74.-search-in-sorted-matrix-m.md)
     * [79. Word Search](leetcode/0-100-12/79.-word-search.md)
