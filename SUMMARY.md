@@ -191,6 +191,7 @@
     * [127. Word Ladder](leetcode/100-200-20/127.-word-ladder.md)
     * [129. Sum Root to Leaf Numbers](leetcode/100-200-20/129.-sum-root-to-leaf-numbers.md)
     * [130. 【经典】Surrounded Regions](leetcode/100-200-20/130.-jing-dian-surrounded-regions.md)
+    * [131. Palindrome Partitioning](leetcode/100-200-20/131.-palindrome-partitioning.md)
     * [133. Clone Graph](leetcode/100-200-20/133.-clone-graph.md)
     * [138. Copy List with Random Pointer](leetcode/100-200-20/138.-copy-list-with-random-pointer.md)
     * [139. Word Break](leetcode/100-200-20/139.-word-break.md)
