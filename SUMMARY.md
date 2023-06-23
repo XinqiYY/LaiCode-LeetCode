@@ -78,6 +78,7 @@
     * [106. Largest SubMatrix Sum](readme/dp/106.-largest-submatrix-sum.md)
     * [637. Largest Square Surrounded By One](lai-offer/dp/637.-largest-square-surrounded-by-one.md)
     * [638. Largest Square Of Matches](lai-offer/dp/638.-largest-square-of-matches.md)
+    * [683. Count Ascending Subsequence](readme/dp/683.-count-ascending-subsequence.md)
   * [Graph Search Algorithms III](readme/graph-search-algorithms-iii/README.md)
     * [193. Kth Smallest With Only 3, 5, 7 As Factors](readme/graph-search-algorithms-iii/193.-kth-smallest-with-only-3-5-7-as-factors.md)
     * [194. Kth Closest Point To <0,0,0>](readme/graph-search-algorithms-iii/194.-kth-closest-point-to-less-than-0-0-0-greater-than.md)
