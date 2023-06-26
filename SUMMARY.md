@@ -76,6 +76,8 @@
     * [100. Edit Distance](lai-offer/dp/100.-edit-distance.md)
     * [105. Largest X Of 1s](readme/dp/105.-largest-x-of-1s.md)
     * [106. Largest SubMatrix Sum](readme/dp/106.-largest-submatrix-sum.md)
+    * [176. Longest Common Substring](readme/dp/176.-longest-common-substring.md)
+    * [177. Longest Common Subsequence](readme/dp/177.-longest-common-subsequence.md)
     * [217. Largest Set Of Points With Positive Slope](readme/dp/217.-largest-set-of-points-with-positive-slope.md)
     * [637. Largest Square Surrounded By One](lai-offer/dp/637.-largest-square-surrounded-by-one.md)
     * [638. Largest Square Of Matches](lai-offer/dp/638.-largest-square-of-matches.md)
