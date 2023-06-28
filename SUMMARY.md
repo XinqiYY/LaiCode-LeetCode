@@ -21,6 +21,7 @@
     * [20. Search In Unknown Sized Sorted Array](readme/binarysearch/20.-search-in-unknown-sized-sorted-array.md)
     * [22. Search In Shifted Sorted Array II](readme/binarysearch/22.-search-in-shifted-sorted-array-ii.md)
     * [23. Shift Position](readme/binarysearch/23.-shift-position.md)
+    * [24. Total Occurrence](readme/binarysearch/24.-total-occurrence.md)
     * [636. Smallest Element Larger than Target](lai-offer/binarysearch/636.-smallest-element-larger-than-target.md)
   * [Cross-training I](lai-offer/cross-training-i/README.md)
     * [58. Get Keys In Binary Tree Layer By Layer Zig-Zag Order](lai-offer/cross-training-i/58.-get-keys-in-binary-tree-layer-by-layer-zig-zag-order.md)
