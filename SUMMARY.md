@@ -75,6 +75,7 @@
     * [88. Array Hopper I](lai-offer/dp/88.-array-hopper-i.md)
     * [89. Array Hopper II](lai-offer/dp/89.-array-hopper-ii.md)
     * [90. Array Hopper III](readme/dp/90.-array-hopper-iii.md)
+    * [91. Array Hopper IV](readme/dp/91.-array-hopper-iv.md)
     * [97. Largest SubArray Sum](lai-offer/dp/97.-largest-subarray-sum.md)
     * [99. Dictionary Word I](lai-offer/dp/99.-dictionary-word-i.md)
     * [100. Edit Distance](lai-offer/dp/100.-edit-distance.md)
