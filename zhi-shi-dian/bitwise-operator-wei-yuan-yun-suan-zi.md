@@ -49,7 +49,7 @@
 
 > 同理，左移是乘以2。位移1位，乘以2^1。位移两位乘以2^2
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (2).png>)
 
 ### Right Logical Shift Example
 
