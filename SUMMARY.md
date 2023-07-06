@@ -135,6 +135,7 @@
     * [79. Remove Adjacent Repeated Characters I](readme/strings/79.-remove-adjacent-repeated-characters-i.md)
     * [84. Reverse Words In A Sentence I](lai-offer/strings/84.-reverse-words-in-a-sentence-i.md)
     * [85. Determine If One String Is Another's Substring](lai-offer/strings/85.-determine-if-one-string-is-anothers-substring.md)
+    * [173. Compress String](readme/strings/173.-compress-string.md)
     * [253. Longest Substring Without Repeating Characters](lai-offer/strings/253.-longest-substring-without-repeating-characters.md)
     * [281. Remove Spaces](lai-offer/strings/281.-remove-spaces.md)
     * [395. Remove Certain Characters](lai-offer/strings/395.-remove-certain-characters.md)
