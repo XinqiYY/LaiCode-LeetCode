@@ -400,3 +400,8 @@
     * [295. Find Median from Data Stream](75-solutions/heap/295.-find-median-from-data-stream.md)
     * [347. Top K Frequent Elements](75-solutions/heap/347.-top-k-frequent-elements.md)
 * [GitBook Format](gitbook-format.md)
+* [130. Deep Copy Skip List](130.-deep-copy-skip-list.md)
+* [543. Diameter of Binary Tree](543.-diameter-of-binary-tree.md)
+* [142. Binary Tree Diameter](142.-binary-tree-diameter.md)
+* [Page 5](page-5.md)
+* [Page 6](page-6.md)
