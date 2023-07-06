@@ -404,4 +404,5 @@
 * [543. Diameter of Binary Tree](543.-diameter-of-binary-tree.md)
 * [142. Binary Tree Diameter](142.-binary-tree-diameter.md)
 * [144. Recover Binary Search Tree](144.-recover-binary-search-tree.md)
-* [Page 6](page-6.md)
+* [146. Find Number of BSTs Generated](146.-find-number-of-bsts-generated.md)
+* [Page 1](page-1.md)
