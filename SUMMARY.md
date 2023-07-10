@@ -414,7 +414,7 @@
 * [GitBook Format](gitbook-format.md)
 * [195. Place To Put The Chair I](195.-place-to-put-the-chair-i.md)
 * [196. Place To Put The Chair II](196.-place-to-put-the-chair-ii.md)
-* [Page 3](page-3.md)
+* [4. Median of Two Sorted Arrays](4.-median-of-two-sorted-arrays.md)
 * [Page 4](page-4.md)
 * [Page 5](page-5.md)
 * [Page 6](page-6.md)
