@@ -421,7 +421,7 @@
     * [347. Top K Frequent Elements](75-solutions/heap/347.-top-k-frequent-elements.md)
 * [GitBook Format](gitbook-format.md)
 * [1122. Relative Sort Array](1122.-relative-sort-array.md)
-* [Page 2](page-2.md)
+* [279. Sort With 3 Stacks](279.-sort-with-3-stacks.md)
 * [Page 3](page-3.md)
 * [Page 4](page-4.md)
 * [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
