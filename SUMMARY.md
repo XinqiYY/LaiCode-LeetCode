@@ -425,4 +425,6 @@
     * [295. Find Median from Data Stream](75-solutions/heap/295.-find-median-from-data-stream.md)
     * [347. Top K Frequent Elements](75-solutions/heap/347.-top-k-frequent-elements.md)
 * [GitBook Format](gitbook-format.md)
-* [Page 1](page-1.md)
+* [557. Reverse Words in a String III](557.-reverse-words-in-a-string-iii.md)
+* [186. Reverse Words in a String II](186.-reverse-words-in-a-string-ii.md)
+* [Page 3](page-3.md)
