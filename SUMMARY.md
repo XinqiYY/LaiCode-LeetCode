@@ -432,5 +432,5 @@
 * [399. Rainbow Sort II](399.-rainbow-sort-ii.md)
 * [400. Rainbow Sort III](400.-rainbow-sort-iii.md)
 * [489. Quiz: Largest SubArray Sum](489.-quiz-largest-subarray-sum.md)
-* [Page 2](page-2.md)
+* [218. Generate Random Maze](218.-generate-random-maze.md)
 * [Page 3](page-3.md)
