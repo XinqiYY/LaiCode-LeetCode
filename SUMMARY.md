@@ -433,4 +433,5 @@
 * [400. Rainbow Sort III](400.-rainbow-sort-iii.md)
 * [489. Quiz: Largest SubArray Sum](489.-quiz-largest-subarray-sum.md)
 * [218. Generate Random Maze](218.-generate-random-maze.md)
-* [Page 3](page-3.md)
+* [204. Maximum Values Of Size K Sliding Windows](204.-maximum-values-of-size-k-sliding-windows.md)
+* [239 . Sliding Window Maximum](239-.-sliding-window-maximum.md)
