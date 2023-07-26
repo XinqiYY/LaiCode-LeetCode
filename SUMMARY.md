@@ -435,3 +435,6 @@
 * [218. Generate Random Maze](218.-generate-random-maze.md)
 * [204. Maximum Values Of Size K Sliding Windows](204.-maximum-values-of-size-k-sliding-windows.md)
 * [239 . Sliding Window Maximum](239-.-sliding-window-maximum.md)
+* [84. Largest Rectangle in Histogram](84.-largest-rectangle-in-histogram.md)
+* [Page 2](page-2.md)
+* [Page 3](page-3.md)
