@@ -436,5 +436,5 @@
 * [204. Maximum Values Of Size K Sliding Windows](204.-maximum-values-of-size-k-sliding-windows.md)
 * [239 . Sliding Window Maximum](239-.-sliding-window-maximum.md)
 * [84. Largest Rectangle in Histogram](84.-largest-rectangle-in-histogram.md)
-* [Page 2](page-2.md)
+* [496. Next Greater Element I](496.-next-greater-element-i.md)
 * [Page 3](page-3.md)
