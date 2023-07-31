@@ -443,3 +443,8 @@
     * [295. Find Median from Data Stream](75-solutions/heap/295.-find-median-from-data-stream.md)
     * [347. Top K Frequent Elements](75-solutions/heap/347.-top-k-frequent-elements.md)
 * [GitBook Format](gitbook-format.md)
+* [12. Integer to Roman](12.-integer-to-roman.md)
+* [13. Roman to Integer](13.-roman-to-integer.md)
+* [Page 2](page-2.md)
+* [Page 3](page-3.md)
+* [Page 4](page-4.md)
