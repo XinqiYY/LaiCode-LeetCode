@@ -448,3 +448,7 @@
     * [295. Find Median from Data Stream](75-solutions/heap/295.-find-median-from-data-stream.md)
     * [347. Top K Frequent Elements](75-solutions/heap/347.-top-k-frequent-elements.md)
 * [GitBook Format](gitbook-format.md)
+* [1007. Minimum Domino Rotations For Equal Row](1007.-minimum-domino-rotations-for-equal-row.md)
+* [31. Next Permutation](31.-next-permutation.md)
+* [136. Single Number](136.-single-number.md)
+* [Page](page.md)
