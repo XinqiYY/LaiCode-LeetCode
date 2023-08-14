@@ -464,3 +464,6 @@
 * [GitBook Format](gitbook-format.md)
 * [307. Range Sum Query - Mutable](307.-range-sum-query-mutable.md)
 * [256. Paint House](256.-paint-house.md)
+* [Page 1](page-1.md)
+* [2. Add Two Numbers](2.-add-two-numbers.md)
+* [819. Most Common Word](819.-most-common-word.md)
