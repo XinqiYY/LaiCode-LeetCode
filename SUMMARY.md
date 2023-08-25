@@ -482,7 +482,7 @@
 * [GitBook Format](gitbook-format.md)
 * [2390. Removing Stars From a String](2390.-removing-stars-from-a-string.md)
 * [33. Number of Recent Calls](33.-number-of-recent-calls.md)
-* [Page 3](page-3.md)
+* [649. Dota2 Senate](649.-dota2-senate.md)
 * [Page 4](page-4.md)
 * [Page 5](page-5.md)
 * [Page 6](page-6.md)
