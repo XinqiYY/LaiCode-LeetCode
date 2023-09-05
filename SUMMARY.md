@@ -496,7 +496,7 @@
     * [295. Find Median from Data Stream](75-solutions/heap/295.-find-median-from-data-stream.md)
     * [347. Top K Frequent Elements](75-solutions/heap/347.-top-k-frequent-elements.md)
 * [GitBook Format](gitbook-format.md)
-* [Page](page.md)
+* [1466. Reorder Routes to Make All Paths Lead to the City Zero](1466.-reorder-routes-to-make-all-paths-lead-to-the-city-zero.md)
 * [Page 1](page-1.md)
 * [Page 2](page-2.md)
 * [Page 3](page-3.md)
