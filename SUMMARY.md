@@ -523,7 +523,7 @@
 * [216. Combination Sum III](216.-combination-sum-iii.md)
 * [1137. N-th Tribonacci Number](1137.-n-th-tribonacci-number.md)
 * [746. Min Cost Climbing Stairs](746.-min-cost-climbing-stairs.md)
-* [Page 3](page-3.md)
+* [790. Domino and Tromino Tiling](790.-domino-and-tromino-tiling.md)
 * [Page 4](page-4.md)
 * [Page 5](page-5.md)
 * [Page 6](page-6.md)
