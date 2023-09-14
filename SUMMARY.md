@@ -464,6 +464,7 @@
     * [2462. Total Cost to Hire K Workers](leetcode/2000+/2462.-total-cost-to-hire-k-workers.md)
     * [2542. Maximum Subsequence Score](leetcode/2000+/2542.-maximum-subsequence-score.md)
 * [知识点](zhi-shi-dian/README.md)
+  * [Stack](zhi-shi-dian/stack.md)
   * [KMP字符串匹配算法](zhi-shi-dian/kmp-zi-fu-chuan-pi-pei-suan-fa.md)
   * [Monotonic Stack](zhi-shi-dian/monotonic-stack.md)
   * [Boyer–Moore majority vote algorithm](zhi-shi-dian/boyer-moore-majority-vote-algorithm.md)
@@ -573,3 +574,5 @@
 * [剑指Offer 05. Replace Space](jian-zhi-offer-05.-replace-space.md)
 * [28. Find the Index of the First Occurrence in a String](28.-find-the-index-of-the-first-occurrence-in-a-string.md)
 * [459. Repeated Substring Pattern](459.-repeated-substring-pattern.md)
+* [222. Count Complete Tree Nodes](222.-count-complete-tree-nodes.md)
+* [257. Binary Tree Paths](257.-binary-tree-paths.md)
