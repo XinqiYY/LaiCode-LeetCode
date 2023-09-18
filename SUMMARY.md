@@ -577,7 +577,7 @@
 * [222. Count Complete Tree Nodes](222.-count-complete-tree-nodes.md)
 * [257. Binary Tree Paths](257.-binary-tree-paths.md)
 * [71. Simplify Path](71.-simplify-path.md)
-* [Page 1](page-1.md)
+* [559. Maximum Depth of N-ary Tree](559.-maximum-depth-of-n-ary-tree.md)
 * [Page 2](page-2.md)
 * [Page 3](page-3.md)
 * [Page 4](page-4.md)
