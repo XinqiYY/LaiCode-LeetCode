@@ -629,6 +629,7 @@
     * [2356. Number of Unique Subjects Taught by Each Teacher](sql/2000+/2356.-number-of-unique-subjects-taught-by-each-teacher.md)
 * [GitBook Format](gitbook-format.md)
 * [SQL Format](sql-format.md)
+* [34. Find First and Last Position of Element in Sorted Array](34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [Reverse Stack with Recursion](reverse-stack-with-recursion.md)
 * [2217. Find Palindrome With Fixed Length](2217.-find-palindrome-with-fixed-length.md)
 * [163. Missing Ranges](163.-missing-ranges.md)
