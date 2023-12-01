@@ -538,7 +538,7 @@
   * [「Java面试小抄」](zhi-shi-dian/java-mian-shi-xiao-chao.md)
   * [HashTable & HashMap](zhi-shi-dian/hashtable-and-hashmap.md)
   * [DP](zhi-shi-dian/dp-jiang-wei.md)
-  * [前缀和专题](zhi-shi-dian/qian-zhui-he-zhuan-ti.md)
+  * [Prefix Sum](zhi-shi-dian/qian-zhui-he-zhuan-ti.md)
   * [滑动窗口（Sliding Window）](zhi-shi-dian/hua-dong-chuang-kou-sliding-window.md)
   * [讲解code要点](zhi-shi-dian/jiang-jie-code-yao-dian.md)
   * [递归(Recursion)](zhi-shi-dian/di-gui-recursion.md)
