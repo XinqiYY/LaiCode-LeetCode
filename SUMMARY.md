@@ -657,5 +657,5 @@
 * [SQL Format](sql-format.md)
 * [128. Longest Consecutive Sequence](128.-longest-consecutive-sequence.md)
 * [271. Encode and Decode Strings](271.-encode-and-decode-strings.md)
-* [Page 3](page-3.md)
+* [74. Search a 2D Matrix](74.-search-a-2d-matrix.md)
 * [Page 4](page-4.md)
