@@ -1,6 +1,6 @@
 # 贪心算法
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [贪心一般解题步骤](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md#%E8%B4%AA%E5%BF%83%E4%B8%80%E8%88%AC%E8%A7%A3%E9%A2%98%E6%AD%A5%E9%AA%A4) <a href="#usercontent-tan-xin-yi-ban-jie-ti-bu-zhou" id="usercontent-tan-xin-yi-ban-jie-ti-bu-zhou"></a>
 
