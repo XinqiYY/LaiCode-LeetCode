@@ -663,7 +663,7 @@
     * [Smallest Submartic Sum with size K in 2D Array](leetcode/others/smallest-submartic-sum-with-size-k-in-2d-array.md)
 * [GitBook Format](gitbook-format.md)
 * [SQL Format](sql-format.md)
-* [Page 9](page-9.md)
+* [3016. Minimum Number of Pushes to Type Word II](3016.-minimum-number-of-pushes-to-type-word-ii.md)
 * [Page 8](page-8.md)
 * [Page 7](page-7.md)
 * [Page 6](page-6.md)
