@@ -664,7 +664,7 @@
 * [GitBook Format](gitbook-format.md)
 * [SQL Format](sql-format.md)
 * [3016. Minimum Number of Pushes to Type Word II](3016.-minimum-number-of-pushes-to-type-word-ii.md)
-* [Page 8](page-8.md)
+* [397. Right Shift By N Characters](397.-right-shift-by-n-characters.md)
 * [Page 7](page-7.md)
 * [Page 6](page-6.md)
 * [Page 5](page-5.md)
