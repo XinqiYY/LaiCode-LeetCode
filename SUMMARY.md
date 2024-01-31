@@ -665,7 +665,7 @@
 * [SQL Format](sql-format.md)
 * [3016. Minimum Number of Pushes to Type Word II](3016.-minimum-number-of-pushes-to-type-word-ii.md)
 * [397. Right Shift By N Characters](397.-right-shift-by-n-characters.md)
-* [Page 7](page-7.md)
+* [1232. Check If It Is a Straight Line](1232.-check-if-it-is-a-straight-line.md)
 * [Page 6](page-6.md)
 * [Page 5](page-5.md)
 * [Page 4](page-4.md)
