@@ -666,7 +666,7 @@
 * [3016. Minimum Number of Pushes to Type Word II](3016.-minimum-number-of-pushes-to-type-word-ii.md)
 * [397. Right Shift By N Characters](397.-right-shift-by-n-characters.md)
 * [1232. Check If It Is a Straight Line](1232.-check-if-it-is-a-straight-line.md)
-* [Page 6](page-6.md)
+* [2307. Check for Contradictions in Equations](2307.-check-for-contradictions-in-equations.md)
 * [Page 5](page-5.md)
 * [Page 4](page-4.md)
 * [Page 3](page-3.md)
