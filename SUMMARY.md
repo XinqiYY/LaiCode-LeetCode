@@ -667,7 +667,7 @@
 * [397. Right Shift By N Characters](397.-right-shift-by-n-characters.md)
 * [1232. Check If It Is a Straight Line](1232.-check-if-it-is-a-straight-line.md)
 * [2307. Check for Contradictions in Equations](2307.-check-for-contradictions-in-equations.md)
-* [Page 5](page-5.md)
+* [1383. Maximum Performance of a Team](1383.-maximum-performance-of-a-team.md)
 * [Page 4](page-4.md)
 * [Page 3](page-3.md)
 * [Page 2](page-2.md)
